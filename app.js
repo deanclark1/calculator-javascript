@@ -55,7 +55,7 @@ function handleSymbol (value) {
             } 
             break;
         default:
-            handleNumber(value);
+            handleMath(value);
             break;
 
     }
